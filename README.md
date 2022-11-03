@@ -1,2 +1,1 @@
-#DemoApp
 # NewApp
